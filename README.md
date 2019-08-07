@@ -1,3 +1,3 @@
 # node-api
 
-Simple book Node.js API
+Simple learning book Node.js API
